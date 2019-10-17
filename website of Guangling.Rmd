@@ -1,0 +1,17 @@
+---
+title: "Website of Guangling"
+author: "Guangling Xu"
+date: "10/17/2019"
+output: 
+html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+# This is Guangling's Website
+
+# Let's add some links
+
+I often use [google](http://www.google.com) to do data science
+
+<img src="screen saver.jpg" style="width:75%">
