@@ -6,9 +6,11 @@ output:
 html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 # This is Guangling's Website
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+You can learn about me [about me](aboutme.html)
 
 # Let's add some links
 
