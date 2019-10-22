@@ -5,13 +5,16 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - text: "Plotly"
-      href: plotly.html
+    - text: Examples
+      menu:
+      - text: "Plotly"
+        href: plotly.html
+      - text: "Dashboard"
+        href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href:  https://gx2144.github.io/gx2144_p8105.github.io/
 output:
   html_document:
-    theme: flatly
-   
+    theme: journal
