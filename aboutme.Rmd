@@ -6,7 +6,6 @@ output:
 html_document:
     toc: true
     toc_float: true
-    
 ---
 # My name is Guangling
 
@@ -14,4 +13,4 @@ html_document:
 
 I often use [google](http://www.google.com) to do data science
 
-<img src="2018-03-25 065628.jpg" style="width:75%">
+<img src="image/2018-03-25 065628.jpg" style="width:75%">

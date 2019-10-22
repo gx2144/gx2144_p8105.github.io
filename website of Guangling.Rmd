@@ -16,4 +16,4 @@ You can learn about me [about me](aboutme.html)
 
 I often use [google](http://www.google.com) to do data science
 
-<img src="screen saver.jpg" style="width:75%">
+<img src="image/screen saver.jpg" style="width:75%">
