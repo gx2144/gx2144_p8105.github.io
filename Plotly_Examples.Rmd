@@ -4,7 +4,6 @@ author: "Guangling Xu"
 date: "2019/10/22"
 output: 
 html_document:
-    code_folding: hide
     toc: true
     toc_float: true
 ---

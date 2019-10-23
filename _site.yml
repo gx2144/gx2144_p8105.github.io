@@ -4,11 +4,11 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: about.html
+      href: aboutme.html
     - text: Examples
       menu:
       - text: "Plotly"
-        href: plotly.html
+        href: Plotly_Examples.html
       - text: "Dashboard"
         href: dashboard.html
     - icon: fa-envelope fa-lg
